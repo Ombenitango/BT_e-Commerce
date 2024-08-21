@@ -1,0 +1,528 @@
+{
+    "Computers": [
+        {
+            "title": "Dell OptiPlex 5050 Desktop Computer PC, 3.20 GHz Intel i5 Quad Core Gen 7, 16GB DDR4 RAM, 240GB SSD Hard Drive, Windows 10 Professional 64 Bit",
+            "price": 374144,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/3f4fa158b81a782c78a6cd9b5eada47a07dca82e-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoOA2E"
+        },
+        {
+            "_id": "EU5h49cUwchkpvcWDoOB5Y",
+            "title": "IPASON Gaming desktop AMD Ryzen 5 5600G  3.9GHz GeForce RTX 3060 16GB(8*2) DDR4 3200MHz 500GB M.2 NVMe 500W PSU Windows 11 home  WIFI Gaming PC With Gaming keyboard &mouse",
+            "price": 1323712,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/a81fda5b43a24669cd8d09a22adaaf5fe8b39330-640x480.jpg"
+                }
+            }
+        },
+        {
+            "_id": "EU5h49cUwchkpvcWDoOBkv",
+            "title": "MSI Business Desktop Cubi N JSL-070US Celeron N4500 (1.10GHz) 4GB DDR4 128 GB SSD Intel UHD Graphics Windows 11 Pro 64-bit",
+            "price": 494912,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/58fca0fb6665754cb3ebf6b875c2c404048a3e82-640x480.jpg"
+                }
+            }
+        },
+        {
+            "title": "Acer Gaming Desktop Nitro 50 N50-640-UR13 Intel Core i5 12th Gen 12400F (2.50GHz) 16GB DDR4 1TB HDD 512 GB PCIe SSD NVIDIA GeForce RTX 3050 Windows 11 Home 64-bit",
+            "price": 1323712,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/073f2bb063e4d1f04a69172c8c6be9131beed662-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cZ7w"
+        },
+        {
+            "title": "ABS Stratos Aqua Gaming PC - Intel i7 13700F - GeForce RTX 4070 - 16GB DDR5 5600MHz - 1TB M.2 NVMe SSD - SA137F40702",
+            "price": 2368,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/6f13f1a82f8114e5577ddbcca82f24456f57c3e4-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cZs4"
+        },
+        {
+            "title": "IPASON - Gaming desktop - AMD Ryzen 5 5600G 6 core 3.9GHz - 16GB(8*2) DDR4 3200MHz - 500GB M.2 NVMe - 500W PSU - Windows 11 home - WIFI - Gaming PC",
+            "price": 1323712,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/2501dcee335a69140b5b009a1a296f143d0de934-640x480.jpg"
+                }
+            },
+            "_id": "jaUFpzih5fLSOZmcynLFpw"
+        },
+        {
+            "title": "Acer Gaming Desktop Predator Orion 3000 PO3-640G-UR11 Intel Core i7 12th Gen 12700F (2.10GHz) 16GB DDR4 1TB HDD 512 GB PCIe SSD NVIDIA GeForce RTX 3060 Windows 11 Home 64-bit",
+            "price": 2368,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/82ca53546ab64200752577e9da72089b38ddd553-640x480.jpg"
+                }
+            },
+            "_id": "jaUFpzih5fLSOZmcynLHs5"
+        }
+    ],
+    "Peripherals": [
+        {
+            "title": "Epson EcoTank® ET-4850 Wireless Inkjet Multifunction Home Office Printer - Color - Copier/Fax/Printer/Scanner - 4800 x 1200 dpi Print - Automatic Duplex Print - Up to 5000 Pages Monthly",
+            "price": 1300032,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/42cec2b8c922ca9d1119a0153f64d19fe3cd2e81-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoOC4W"
+        },
+        {
+            "title": "Logitech G502 X PLUS LIGHTSPEED Wireless RGB Gaming Mouse - Optical mouse with LIGHTFORCE hybrid switches, LIGHTSYNC RGB, HERO 25K gaming sensor, compatible with PC - macOS/Windows - Black",
+            "price": 352832,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/ac724bbf2b49fea28e47057a0c7648a7cf9f8b63-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18caCp"
+        },
+        {
+            "title": "MSI Vigor GK50 Elite LL Mechanical Gaming Keyboard - Kailh Blue Switches (Clicky), Ergonomic Keycaps, Brushed Metal Finish, Anti-Slip Base, Per-Key RGB Mystic Light, USB 2.0 - Full-Sized",
+            "price": 139712,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/315ff7985d71c2689d2fde30309026257a032e12-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18ccFg"
+        },
+        {
+            "title": "LOTMAXX Shark V3 3D Printer with Auto Leveling, 2-in-1 3D Printing/Laser Engraving FDM Dual Extruder 3D Printer for DIY Home School Printing Size 9.25x9.25x10.23in Engraving Size 9.25x9.25in",
+            "price": 850112,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/add536ea63cfd8cd37d6914abc278158a6faa383-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18ccOu"
+        },
+        {
+            "title": "AUKEY 1080P Webcam w/ Dual Noise Reduction Stereo Microphones - Black PC-LM1E",
+            "price": 28416,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/8c0115af066fc7d9873e199426c5a24acb2004bd-640x480.png"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cdBL"
+        }
+    ],
+    "Networking": [
+        {
+            "_id": "EU5h49cUwchkpvcWDoODN5",
+            "title": "NETGEAR Nighthawk Pro Gaming 6-Stream WiFi 6 Router AX5400 (XR1000)",
+            "price": 873792,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/5de098b5ea69cb18e4aeecb903b90f4309ca9bf2-640x480.jpg"
+                }
+            }
+        },
+        {
+            "title": "SABRENT 6-Port Docking Station for Steam Deck and USB C Devices with 95W PD3.0 port, HDMI 2.0 4K/60Hz, 3 USB-A Ports, USB-C Port [DS-SD6P]",
+            "price": 68672,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/a07553bc5feff8c4fa7c09c2ead3cd4c526df685-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoOEbI"
+        },
+        {
+            "title": "MSI Radix AX6600 WiFi 6 Tri-Band Gaming Router, AI QoS, 1.8GHz Quad-Core Processor, MU-MIMO, Tri Band Gigabit Wireless, 8-Stream, High Speed Long Range Gaming Router",
+            "price": 471232,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/d3da3cdc58db88f04c91b5f771b1afeae2566833-640x480.png"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoOEsi"
+        },
+        {
+            "title": "Reolink 10-Port PoE Switch with 120W PoE Power Budget, 2 Gigabit Uplink Ports, Desktop/Wall Mount, IEEE802.3af/at, Metal Casing, Ideal for Reolink RLN36 NVR and Reolink PoE IP Cameras - RLA-PS1",
+            "price": 142080,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/89b8beadaa940b333f4e308e603bb747171eb2e3-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cchM"
+        },
+        {
+            "title": "MSI RadiX AXE6600 WiFi 6E Tri-Band Gaming Router  support 2.5GHz/5GHz/6GHz, AI QoS support",
+            "price": 636992,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/3e7da2d777db5828ded7d2a8e050ede0821a810d-640x480.png"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cemW"
+        },
+        {
+            "title": "NETGEAR 4G LTE Broadband Modem (LM1200) - Use LTE as a Primary Internet Connection",
+            "price": 352832,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/b2e602f06baf94845e667d6be6997a0b776b66c9-640x480.jpg"
+                }
+            },
+            "_id": "jaUFpzih5fLSOZmcynLLCV"
+        },
+        {
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/5ea6fb662ff3777bb3bda37c97126e814fdcad4b-640x480.jpg"
+                }
+            },
+            "_id": "jaUFpzih5fLSOZmcynLLVc",
+            "title": "NETGEAR EAX12-100NAS Mesh Wifi Range Extender (EAX12-100NAS)",
+            "price": 281792
+        },
+        {
+            "price": 897472,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/e1e472f3c9e1403daaed4bcb61d9297cf6e4be4e-640x480.jpg"
+                }
+            },
+            "_id": "jaUFpzih5fLSOZmcynLM7q",
+            "title": "TERRAMASTER F4-423 4-Bay High Performance NAS for SMB with N5105/5095 Quad-core CPU, 4GB DDR4 Memory, 2.5GbE Port x 2, Network Storage Server (Diskless)"
+        }
+    ],
+    "popular": [
+        {
+            "title": "Samsung Galaxy Z Flip 3 5G 128GB US Unlocked Phantom Black",
+            "price": 7104,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/4f5566e5f859c94a71658e02d6b0b23ad0641a10-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoO3Fz"
+        },
+        {
+            "title": "Nokia 225 4G TA-1282 GSM Unlocked Phone - Classic Blue",
+            "price": 127872,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/5e50ec68fd4e153cdbfd4a4b819d0f034051409f-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoO3Za"
+        },
+        {
+            "price": 1713152,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/0a803a7cdc8cc47156b47386e550fbc48d1003f8-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoO5gE",
+            "title": "Lenovo IdeaPad Flex 5 14ALC7 14\" Touchscreen Convertible 2 in 1 Notebook - WUXGA - 1920 x 1200 - AMD Ryzen 5 5500U Hexa-core (6 Core) 2.10 GHz - 8 GB Total RAM - 256 SSD - 82R9000RUS"
+        },
+        {
+            "_id": "EU5h49cUwchkpvcWDoO8Ap",
+            "title": "Acer Swift X Creator Laptop | 14\" Full HD 100% sRGB | AMD Ryzen 5 5600U | NVIDIA RTX 3050 Laptop GPU | 8GB LPDDR4X | 512GB NVMe SSD | Wi-Fi 6 | Backlit Keyboard | Windows 11 Home SFX14-41G-R7YT",
+            "price": 1892032,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/d7eb970f91cd7add5fe538ce6f8cfc7ef9ea674b-640x480.jpg"
+                }
+            }
+        },
+        {
+            "title": "beyerdynamic Blue BYRD (2nd Generation) with Neckband aptX Deep Bass, CVC 8.0 Noise Reduction Technology, Bluetooth 5.2, IPX4, Sound Personalization, and Alexa Built-in for iPhone and Android - Black",
+            "price": 116032,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/4eac065b9376ad91cdb1668da3fbb45ec7d62e41-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoO8Nt"
+        },
+        {
+            "title": "MSI Radix AX6600 WiFi 6 Tri-Band Gaming Router, AI QoS, 1.8GHz Quad-Core Processor, MU-MIMO, Tri Band Gigabit Wireless, 8-Stream, High Speed Long Range Gaming Router",
+            "price": 471232,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/d3da3cdc58db88f04c91b5f771b1afeae2566833-640x480.png"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoOEsi"
+        },
+        {
+            "price": 921152,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/c746d0076ce0a0467bd599debe457e7d71150718-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cUTd",
+            "title": "Acer Aspire 5 Laptop AMD Ryzen 5 5000 Series 5625U (2.30GHz) 8GB Memory 512 GB NVMe SSD AMD Radeon Graphics 15.6\" Windows 11 Home 64-bit A515-47-R3Y6"
+        },
+        {
+            "price": 1323712,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/073f2bb063e4d1f04a69172c8c6be9131beed662-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cZ7w",
+            "title": "Acer Gaming Desktop Nitro 50 N50-640-UR13 Intel Core i5 12th Gen 12400F (2.50GHz) 16GB DDR4 1TB HDD 512 GB PCIe SSD NVIDIA GeForce RTX 3050 Windows 11 Home 64-bit"
+        },
+        {
+            "title": "ABS Stratos Aqua Gaming PC - Intel i7 13700F - GeForce RTX 4070 - 16GB DDR5 5600MHz - 1TB M.2 NVMe SSD - SA137F40702",
+            "price": 2368,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/6f13f1a82f8114e5577ddbcca82f24456f57c3e4-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cZs4"
+        },
+        {
+            "title": "MSI Vigor GK50 Elite LL Mechanical Gaming Keyboard - Kailh Blue Switches (Clicky), Ergonomic Keycaps, Brushed Metal Finish, Anti-Slip Base, Per-Key RGB Mystic Light, USB 2.0 - Full-Sized",
+            "price": 139712,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/315ff7985d71c2689d2fde30309026257a032e12-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18ccFg"
+        }
+    ],
+    "Phones": [
+        {
+            "title": "Samsung Galaxy Z Flip 3 5G 128GB US Unlocked Phantom Black",
+            "price": 7104,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/4f5566e5f859c94a71658e02d6b0b23ad0641a10-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoO3Fz"
+        },
+        {
+            "title": "Nokia 225 4G TA-1282 GSM Unlocked Phone - Classic Blue",
+            "price": 127872,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/5e50ec68fd4e153cdbfd4a4b819d0f034051409f-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoO3Za"
+        },
+        {
+            "title": "REFURB B SAM S20 ULTRA 5G G988U 128GB GSM/CDMA PHONE GRAY B",
+            "price": 234432,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/4e919049ee75d25fe265d040a6fc9d2ec0051321-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoO4Cm"
+        },
+        {
+            "title": "Samsung Galaxy A42 5G Unlocked Cell Phone 6.6\" Prism Dot Black 128GB 4GB RAM",
+            "price": 234432,
+            "mainImage": null,
+            "_id": "Vg3hJ7SeQc6K54fx13M8ZX"
+        },
+        {
+            "title": "Samsung Galaxy A42 5G Unlocked Cell Phone 6.6\" Prism Dot Black 128GB 4GB RAM",
+            "price": 234432,
+            "mainImage": null,
+            "_id": "Vg3hJ7SeQc6K54fx13Rywg"
+        },
+        {
+            "title": "Samsung Galaxy S22 Ultra SM-S908UGRP 5G Unlocked Cell Phone 6.8\" Graphite 256GB 12GB RAM",
+            "price": 2368,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/47511c266548be3c4718162b6454d9d46064a3b7-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cSHY"
+        },
+        {
+            "title": "Nokia G100 TA-1430 128GB GSM / Verizon Unlocked Android Smartphone - Nordic Blue",
+            "price": 416768,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/0b4bf7769f08550b969fdf7132a04e20d19eac62-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cTR3"
+        },
+        {
+            "title": "Samsung Galaxy A42 5G Unlocked Cell Phone 6.6\" Prism Dot Black 128GB 4GB RAM",
+            "price": 234432,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/8297320ec2fd9c06edef433aea2120f5be456932-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cTo7"
+        },
+        {
+            "price": 1892032,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/ac7cbd60f3e2ff32cecb84c346155016967fbdae-640x480.jpg"
+                }
+            },
+            "_id": "jaUFpzih5fLSOZmcynL6tf",
+            "title": "ZTE Axon 40 Ultra 5G Unlocked Cell Phone 6.8\" 128GB 8GB RAM"
+        }
+    ],
+    "Laptops": [
+        {
+            "title": "Lenovo IdeaPad Flex 5 14ALC7 14\" Touchscreen Convertible 2 in 1 Notebook - WUXGA - 1920 x 1200 - AMD Ryzen 5 5500U Hexa-core (6 Core) 2.10 GHz - 8 GB Total RAM - 256 SSD - 82R9000RUS",
+            "price": 1713152,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/0a803a7cdc8cc47156b47386e550fbc48d1003f8-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoO5gE"
+        },
+        {
+            "title": "Acer Swift 3 14\" FHD Touch Laptop, Intel i5-1240P, 16GB RAM, 512GB SSD, Win 11 Home SF314-512T-56CT",
+            "price": 921152,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/8223bcb11a8a303109e62349dd155f2933675f0d-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoO6S8"
+        },
+        {
+            "price": 1892032,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/d7eb970f91cd7add5fe538ce6f8cfc7ef9ea674b-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoO8Ap",
+            "title": "Acer Swift X Creator Laptop | 14\" Full HD 100% sRGB | AMD Ryzen 5 5600U | NVIDIA RTX 3050 Laptop GPU | 8GB LPDDR4X | 512GB NVMe SSD | Wi-Fi 6 | Backlit Keyboard | Windows 11 Home SFX14-41G-R7YT"
+        },
+        {
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/f91b4c28340063cc6ed88c6e1a7f8bde15a0cb88-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cSzN",
+            "title": "Lenovo IdeaPad Flex 5 16\" 2-in-1 Touchscreen Laptop - Intel Core i7 12th Gen 1255U 16GB RAM 512GB SSD Windows 11 Home, Lenovo Premium Care, 82R80002US",
+            "price": 1513152
+        },
+        {
+            "title": "Acer Aspire 5 Spin 14 Intel Core i5 13th Gen 1335U (1.30GHz) 8 GB LPDDR5 Memory 512 GB PCIe SSD Intel Iris Xe Graphics 14\" Touchscreen 1920 x 1200 Convertible 2-in-1 Laptop Windows 11 Home 64-bit A5SP14-51MTN-50Z3",
+            "price": 1773632,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/7831c86c119771ece4b8acdc5998fc21ad32b7aa-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cU1x"
+        },
+        {
+            "_id": "Vg3hJ7SeQc6K54fx18cUTd",
+            "title": "Acer Aspire 5 Laptop AMD Ryzen 5 5000 Series 5625U (2.30GHz) 8GB Memory 512 GB NVMe SSD AMD Radeon Graphics 15.6\" Windows 11 Home 64-bit A515-47-R3Y6",
+            "price": 921152,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/c746d0076ce0a0467bd599debe457e7d71150718-640x480.jpg"
+                }
+            }
+        }
+    ],
+    "Headsets": [
+        {
+            "title": "beyerdynamic Blue BYRD (2nd Generation) with Neckband aptX Deep Bass, CVC 8.0 Noise Reduction Technology, Bluetooth 5.2, IPX4, Sound Personalization, and Alexa Built-in for iPhone and Android - Black",
+            "price": 116032,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/4eac065b9376ad91cdb1668da3fbb45ec7d62e41-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoO8Nt"
+        },
+        {
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/6df8c3541dd7e16e576a5a5c6f910980db8fad96-640x480.jpg"
+                }
+            },
+            "_id": "EU5h49cUwchkpvcWDoO8lq",
+            "title": "Soundcore Life Dot 2S True Wireless Earbuds In-Ear Headphone Waterproof IPX7 (Renewed)",
+            "price": 75776
+        },
+        {
+            "title": "AUKEY Black EP-T27 Wireless Earbuds with aptX Deep Bass, CVC 8.0 Noise Reduction Technology, Bluetooth 5.0, IPX7 Waterproof, USB Type C Quick Charging Case Earphones for iPhone and Android",
+            "price": 30784,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/ca204d55c5b6453f0ebd38f7573e26e908b0f06a-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cWRs"
+        },
+        {
+            "price": 42624,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/5607eaa934a673614b75a29c0c74179060784a53-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cWdP",
+            "title": "Lenovo LP3 Pro 2022 New TWS Earphones Wireless Bluetooth 5.2 Earbuds HIFI Sound Noise Reduction HD Call Low Latency Headphones (Black)"
+        },
+        {
+            "title": "Fuji Labs Wireless HD2000 Professional Stereo Headphones - Black",
+            "price": 116032,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/4ad23346ad09033067b395dbbf52c310b467e7ac-640x480.jpg"
+                }
+            },
+            "_id": "Vg3hJ7SeQc6K54fx18cXbN"
+        },
+        {
+            "title": "Sony WH-1000XM4 Wireless Noise-Cancelling Over-the-Ear Headphones - Black",
+            "price": 471232,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/89f0fb20d76e8c531b4e5b26802bd2631f669910-640x480.jpg"
+                }
+            },
+            "_id": "jaUFpzih5fLSOZmcynLBKt"
+        },
+        {
+            "title": "beyerdynamic DT 770 Pro 80 ohm Over-Ear Studio Closed Headphones For Monitoring and Recording in Studio - Musicians, Producers, Podcasters, and Streamers",
+            "price": 376512,
+            "mainImage": {
+                "asset": {
+                    "url": "https://cdn.sanity.io/images/s02bznjg/production/ad17e7e59bad2361df97f415ffff52efa4b50533-640x480.jpg"
+                }
+            },
+            "_id": "jaUFpzih5fLSOZmcynLD7k"
+        }
+    ]
+}
