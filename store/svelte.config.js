@@ -8,7 +8,7 @@ const config = {
     adapter: adapter(),
     alias:{
       $js:"src/js",
-    }
+    },
   },
   preprocess: vitePreprocess()
 };

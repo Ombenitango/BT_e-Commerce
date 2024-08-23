@@ -29,7 +29,6 @@
 	onMount(() => {
 		$colorTheme = localStorage.getItem("colorTheme") || "light";
 		onAuthStateChanged(auth, (userState) => {
-			// console.log("auth changes",userState);
 			if (!userState) {
 				$user = {};
 			} else {
@@ -44,18 +43,19 @@
 </script>
 
 <main class="dark:bg-neutral-900 min-h-[100vh] h-full relative flex flex-col overflow-x-hidden">
-	<Drawer />
-	<Navbar />
+	{#if !$page.route.id.includes("admin") && $page.route.id !== "/auth" }
+		<Navbar/>
+	{/if}
+	<Drawer />		
 	<!-- <main class="z-[2]"> -->
 	<slot />
 	<!-- </main> -->
-	{#if $page.route.id != "/auth"}
+	
+
+	{#if !$page.route.id.includes("admin") && $page.route.id !== "/auth" }
 		<Footer />
 	{/if}
+
 	<Snackbar />
-    <Analytics />
-	<!-- {#if $cookieConsent}
-	{:else}
-		<Cookies />
-	{/if} -->
+    <!-- <Analytics /> -->
 </main>
