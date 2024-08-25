@@ -3,7 +3,10 @@ const colors=require("tailwindcss/colors")
 /** @type {import('tailwindcss').Config} */
 
 module.exports = {
-  content: ['./src/**/*.{html,js,svelte,ts}'],
+  content: [
+    "./src/**/*.{html,js,svelte,ts}",
+    "./node_modules/flowbite-svelte/**/*.{html,js,svelte,ts}",
+  ],
   darkMode:"class",
   theme: {
     extend:{
@@ -37,6 +40,7 @@ module.exports = {
   },
   plugins: [
     require('@tailwindcss/typography'),
+    require('flowbite/plugin'),
     function ({ addVariant }) {
       addVariant('child', '& > *');
       addVariant('svg', '& svg');

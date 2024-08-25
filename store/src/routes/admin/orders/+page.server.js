@@ -24,8 +24,7 @@ export async function load({ params }) {
         `;
         
         const orders = await client.fetch(query);
-        console.log(orders);
-        
+        console.log(orders)
         return {
             orders
         };
