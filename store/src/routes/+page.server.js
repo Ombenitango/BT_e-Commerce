@@ -4,7 +4,7 @@ import { client } from '$js/store.server'
 // const builder=imageUrlBuilder(client)
 
 export async function load(){
-  // let {id}=params
+  // let {[id]}=params
   let query=`{'popular':*[ratings.rate > 4]{title,price,category,ratings,mainImage{asset->{url}},_id}[0...10]|order(ratings.rate desc),'Phones':*[category=="Phones"]{title,price,ratings,mainImage{asset->{url}},_id}[0...10]|order(ratings.rate desc),'ComputersAndLaptops':*[category=="Laptops"||category=="Computers"]{title,price,ratings,mainImage{asset->{url}},_id}[0...10]|order(ratings.rate desc),'Headsets':*[category=="Headsets"]{title,price,ratings,mainImage{asset->{url}},_id}[0...10]|order(ratings.rate desc),'PeripheralsAndNetworking':*[category=="Peripherals"||category=="Networking"]{title,price,ratings,mainImage{asset->{url}},_id}[0...10]|order(ratings.rate desc)} `
   const content = await client.fetch(query)
   // console.log(content[0]);

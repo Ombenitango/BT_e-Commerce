@@ -115,7 +115,7 @@
 			<div class="mt-1 mb-3">
 				<label for="user" class="block mb-2 text-sm font-medium text-neutral-700 dark:text-white">City</label>
 				<Dropdown items={regions.map((region) => region.name)} getter={$city.value} setter={(value) => ($city.value = value)} />
-				<!-- <input bind:value={$city.value} type="text" id="user" class="bg-neutral-50 border border-neutral-300 text-neutral-700 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-neutral-700 dark:border-neutral-600 dark:placeholder-neutral-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 outline-none" placeholder="Enter your city" required /> -->
+				<!-- <input bind:value={$city.value} type="text" [id]="user" class="bg-neutral-50 border border-neutral-300 text-neutral-700 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-neutral-700 dark:border-neutral-600 dark:placeholder-neutral-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 outline-none" placeholder="Enter your city" required /> -->
 				{#if errors.get($city.name)}
 					<p class="text-xs text-red-400 !my-1">{explanations[errors.get($city.name)]}</p>
 				{/if}

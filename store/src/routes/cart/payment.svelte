@@ -93,7 +93,7 @@
 				paymentMethod = "visa";
 			}}
 		>
-			<input type="radio" name="" id="" class="w-fit mt-2 mb-4 accent-primary" checked="checked" />
+			<input type="radio" name="" [id]="" class="w-fit mt-2 mb-4 accent-primary" checked="checked" />
 			<div class="flex items-center">
 				<h6 class="text-base text-neutral-700 dark:text-white">Credit Card</h6>
 				<img src="/mastercard.svg" alt="mastercard" class="h-2 !my-0 ml-2" />
@@ -108,7 +108,7 @@
 				paymentMethod = "mpesa";
 			}}
 		>
-			<input type="radio" name="" id="" class="w-fit mt-2 mb-4 accent-primary" />
+			<input type="radio" name="" [id]="" class="w-fit mt-2 mb-4 accent-primary" />
 			<div class="flex items-center">
 				<h6 class="text-base text-neutral-700 dark:text-white">M-Pesa</h6>
 				<img src="/mpesa.svg" alt="mastercard" class="h-3 !my-0 ml-2" />

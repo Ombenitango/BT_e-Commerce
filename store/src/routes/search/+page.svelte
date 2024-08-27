@@ -40,7 +40,7 @@
     
 </script>
 
-<!-- <svelte:body id="scrolllock"/> -->
+<!-- <svelte:body [id]="scrolllock"/> -->
 
 <SideView class="mt-3 ml-3 mr-3">
     <SideFilters class="!shadow-none !w-full !m-0"/>

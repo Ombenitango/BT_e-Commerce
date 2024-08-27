@@ -1,5 +1,5 @@
 import { error } from "@sveltejs/kit";
-import { client } from '$js/store.server';
+import { client } from '$js/store.server.js';
 
 /** @type {import('./$types').PageServerLoad} */
 export async function load({ params }) {
@@ -22,11 +22,10 @@ export async function load({ params }) {
                 
             }[0..20] | order(orderTime desc)
         `;
-        
+
         const orders = await client.fetch(query);
-        console.log(orders)
         return {
-            orders
+            orders: orders || []
         };
     } catch (err) {
         console.error("Error fetching orders:", err);
